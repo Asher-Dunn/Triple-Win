@@ -1,0 +1,10 @@
+.card {
+    min-height:35rem;
+}
+.btn{
+  position: absolute; 
+  bottom: 0;
+  width: 100%;
+  left: 0px
+  
+}
